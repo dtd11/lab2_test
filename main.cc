@@ -1,4 +1,6 @@
 #include <iostream>
+#include "count.h"
+
 
 using namespace std;
 
